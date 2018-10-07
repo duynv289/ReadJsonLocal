@@ -1,0 +1,34 @@
+{
+   "students":[
+      {
+         "name":"John",
+         "age":"23",
+         "city":"Agra"
+      },
+      {
+         "name":"Steve",
+         "age":"28",
+         "city":"Delhi"
+      },
+      {
+         "name":"Peter",
+         "age":"32",
+         "city":"Chennai"
+      },
+      {
+         "name":"Chaitanya",
+         "age":"28",
+         "city":"Bangalore"
+      },
+      {
+         "name":"trumb",
+         "age":"99",
+         "city":"HaNoi"
+      },
+      {
+         "name":"Thor",
+         "age":"50",
+         "city":"HoChiMinhCity"
+      }
+   ]
+}
